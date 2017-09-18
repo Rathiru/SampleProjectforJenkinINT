@@ -10,6 +10,7 @@ namespace ConsoleAppTest
     {
         static void Main(string[] args)
         {
+            //test
             Console.WriteLine("This is the sample project");
         }
     }
